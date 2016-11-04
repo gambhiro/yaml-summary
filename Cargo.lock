@@ -1,0 +1,14 @@
+[root]
+name = "yaml-summary"
+version = "0.1.0"
+dependencies = [
+ "yaml-rust 0.3.4 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "yaml-rust"
+version = "0.3.4"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum yaml-rust 0.3.4 (registry+https://github.com/rust-lang/crates.io-index)" = "371cea3a33a58d11dc83c0992fb37e44f651ebdf2df12f9d939f6cb24be2a8fd"
